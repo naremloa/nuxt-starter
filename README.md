@@ -9,3 +9,6 @@
 - `typescript`
   - `typescript:5.8.2`
   - `vue-tsc:2.2.8`
+- `pinia`
+  - `pinia:3.0.1`
+  - `@pinia/nuxt:0.10.1`
